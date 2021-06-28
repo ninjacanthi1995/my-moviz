@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/my-moviz/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/my-moviz/static/js/main.947b6b7f.chunk.js",
+    "main.js.map": "/my-moviz/static/js/main.947b6b7f.chunk.js.map",
+    "runtime-main.js": "/my-moviz/static/js/runtime-main.98d1fb37.js",
+    "runtime-main.js.map": "/my-moviz/static/js/runtime-main.98d1fb37.js.map",
+    "static/css/2.d45d6843.chunk.css": "/my-moviz/static/css/2.d45d6843.chunk.css",
+    "static/js/2.2bbd5c73.chunk.js": "/my-moviz/static/js/2.2bbd5c73.chunk.js",
+    "static/js/2.2bbd5c73.chunk.js.map": "/my-moviz/static/js/2.2bbd5c73.chunk.js.map",
+    "static/js/3.2fcdc0d6.chunk.js": "/my-moviz/static/js/3.2fcdc0d6.chunk.js",
+    "static/js/3.2fcdc0d6.chunk.js.map": "/my-moviz/static/js/3.2fcdc0d6.chunk.js.map",
+    "index.html": "/my-moviz/index.html",
+    "static/css/2.d45d6843.chunk.css.map": "/my-moviz/static/css/2.d45d6843.chunk.css.map",
+    "static/css/main.9d5b29c0.chunk.css.map": "/my-moviz/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.2bbd5c73.chunk.js.LICENSE.txt": "/my-moviz/static/js/2.2bbd5c73.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/my-moviz/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.98d1fb37.js",
+    "static/css/2.d45d6843.chunk.css",
+    "static/js/2.2bbd5c73.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.947b6b7f.chunk.js"
+  ]
+}
