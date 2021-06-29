@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/my-moviz/static/css/main.9d5b29c0.chunk.css",
-    "main.js": "/my-moviz/static/js/main.b8e7c872.chunk.js",
-    "main.js.map": "/my-moviz/static/js/main.b8e7c872.chunk.js.map",
+    "main.js": "/my-moviz/static/js/main.73b4ca51.chunk.js",
+    "main.js.map": "/my-moviz/static/js/main.73b4ca51.chunk.js.map",
     "runtime-main.js": "/my-moviz/static/js/runtime-main.f9dbc95c.js",
     "runtime-main.js.map": "/my-moviz/static/js/runtime-main.f9dbc95c.js.map",
     "static/css/2.d45d6843.chunk.css": "/my-moviz/static/css/2.d45d6843.chunk.css",
@@ -20,6 +20,6 @@
     "static/css/2.d45d6843.chunk.css",
     "static/js/2.ad7c21f1.chunk.js",
     "static/css/main.9d5b29c0.chunk.css",
-    "static/js/main.b8e7c872.chunk.js"
+    "static/js/main.73b4ca51.chunk.js"
   ]
 }
